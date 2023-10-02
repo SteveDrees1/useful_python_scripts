@@ -1,0 +1,15 @@
+pandas~=2.1.1
+requests~=2.31.0
+beautifulsoup4~=4.12.2
+Pillow~=10.0.1
+selenium~=4.13.0
+lxml~=4.9.3
+psutil~=5.9.5
+py-notifier~=0.5.0
+tqdm~=4.66.1
+chromedriver-binary==119.0.6042.0.0
+pycryptodome~=3.9.8
+click
+gTTS
+PyQt5
+PyAutoGUI~=0.9.54
